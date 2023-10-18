@@ -1,0 +1,29 @@
+[
+// Hybrid tile template, working example (untested)
+// Tile Beach being included as HexaRealm tile. Don't forget to refresh your atlas to include the tile.
+	{
+		"name": "Beach",  // We will use Hill as the the required TerrainFeature
+		"type": "NaturalWonder",  // required
+		"movementCost": 1,  // optional
+		"occursOn": ["Coast"],  // for map gen, not required, not sure which layer takes precedence, not using mapgen
+		"turnsInto": "Hill",  // requred, as a default, we'll use Hill as the TerrainFeature
+		// "turnsInto": "Force",  // then to release Hill if we want to customize the underlying TerrainFeature
+		"unbuildable": false,  // not required, doesn't work anyway
+		"impassable": false,  // required
+		"uniques": [
+				"Never receives any resources <in [Hill] tiles>",  // optional
+		],
+	},
+	{
+		"name": "Force",  // when switching from Hill to Force for hybrid tile bases
+		"type": "TerrainFeature",  // required
+		"movementCost": 1,  // probably shouldn't matter, wonder should take precedence
+		"overrideStats": true,  // untested, probably required
+		"defenceBonus": 0,  // not required
+		"RGB": [105,125,72],  // not required
+		"occursOn": ["Tundra","Plains","Grassland","Desert","Snow"],  // see above
+		"uniques": [
+				"Rough terrain",  // optional
+		],
+	},
+]
