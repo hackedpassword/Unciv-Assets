@@ -1,0 +1,13 @@
+[
+	{
+		"name": "Observatory",
+		"maintenance": 0,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 50},
+		"requiredBuilding": "Library",
+		"uniques": [
+			// "Must be next to [Mountain]"],
+			"<within [2] tiles of a [Observatory]>";
+		"requiredTech": "Astronomy"
+	},
+]
