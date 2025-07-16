@@ -1,2 +1,2 @@
 # Contents of dir
-Mod assets belonging to **UltimaV-tileset**: [Images/TileSets/FantasyHex/Units/](https://github.com/hackedpassword/UltimaV-tileset/tree/main/Images/TileSets/FantasyHex/Units)
+Mod assets belonging to **UltimaV-retroset**: [Images/TileSets/FantasyHex/Units/](https://github.com/hackedpassword/UltimaV-retroset/tree/main/Images/TileSets/FantasyHex/Units)
