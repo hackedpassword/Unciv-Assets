@@ -1,5 +1,13 @@
 @echo off
 
+:: This is a starter pack per say for edges. Run this and voila, instant edges. Tweak to your needs.
+:: Images source-*.png are alpha blank. You'll notice in Ultima V tileset (originally being a hexarealm mod) numerous blanks are in place, this is to override base Unciv edges.
+:: In Ultima V retroset, a proper mod tileset, blanks are unnecessary because the tileset is now a base, rather than being built on top of another tileset.
+
+:: As a starter pack, the script is based on Ultima V mod, which doesn't use `tundra` or `snow` (with exception). Check Unciv's assets to find what sprites are not listed here.
+:: [Unciv's assets](https://github.com/yairm210/Unciv/tree/master/android/Images.Tilesets/TileSets/HexaRealm/Edges)
+
+
 set COPYCMD=/Y
 
 copy source-Bottom.png Beach-Coast\Beach-Coast-Ocean-Bottom.png
