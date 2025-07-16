@@ -118,7 +118,6 @@ You'll notice a mix of 16/32/64^2. To-do: Reduce most sprites back to 16x16 as h
 | PlantationB.png | ![PlantationB.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/HexaRealm/Tiles/PlantationB.png?raw=true) |
 | QuarryH.png | ![QuarryH.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/HexaRealm/Tiles/QuarryH.png?raw=true) |
 | Railroad-Pillaged.png | ![Railroad-Pillaged.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/HexaRealm/Tiles/Railroad-Pillaged.png?raw=true) |
-| README.md | ![README.md](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/HexaRealm/Tiles/README.md?raw=true) |
 | River-Bottom.png | ![River-Bottom.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/HexaRealm/Tiles/River-Bottom.png?raw=true) |
 | River-BottomLeft.png | ![River-BottomLeft.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/HexaRealm/Tiles/River-BottomLeft.png?raw=true) |
 | River-BottomRight.png | ![River-BottomRight.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/HexaRealm/Tiles/River-BottomRight.png?raw=true) |
