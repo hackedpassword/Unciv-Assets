@@ -159,4 +159,4 @@ An [image preview table is here](https://github.com/hackedpassword/Unciv-Assets/
 | Uranium.png | ![Uranium.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/HexaRealm/Tiles/Uranium.png?raw=true) |
 | Wheat.png | ![Wheat.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/HexaRealm/Tiles/Wheat.png?raw=true) |
 
-![](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/HexaRealm/Tiles/Ivory.png?raw=true)
+![](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/HexaRealm/Tiles/Ivory.png?raw=true)![](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/HexaRealm/Tiles/Holy%20site+Marble.png?raw=true)
