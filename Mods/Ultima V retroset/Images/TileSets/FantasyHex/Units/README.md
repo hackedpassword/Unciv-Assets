@@ -3,9 +3,82 @@
 ![](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Great%20Artist.png?raw=true)
 
 Mod assets belonging to **UltimaV-retroset**: [Images/TileSets/FantasyHex/Units/](https://github.com/hackedpassword/UltimaV-retroset/tree/main/Images/TileSets/FantasyHex/Units)
+<br/>
+<br/>
+<br/>
+
+## Sprite preview table
+An [image preview table is here](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/HexaRealm/Tiles/_sprite_previews.md).
+
+| File | Image |
+| ---- | ----- |
+| Anti-Tank Gun.png | ![Anti-Tank Gun.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Anti-Tank%20Gun.png?raw=true) |
+| Battleship.png | ![Battleship.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Battleship.png?raw=true) |
+| Battleship2.png | ![Battleship2.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Battleship2.png?raw=true) |
+| Destroyer.png | ![Destroyer.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Destroyer.png?raw=true) |
+| Destroyer2.png | ![Destroyer2.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Destroyer2.png?raw=true) |
+| Destroyer3.png | ![Destroyer3.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Destroyer3.png?raw=true) |
+| Destroyer4.png | ![Destroyer4.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Destroyer4.png?raw=true) |
+| EmbarkedUnit-Civilian-Modern era.png | ![EmbarkedUnit-Civilian-Modern era.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/EmbarkedUnit-Civilian-Modern%20era.png?raw=true) |
+| EmbarkedUnit-Civilian-Modern era2.png | ![EmbarkedUnit-Civilian-Modern era2.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/EmbarkedUnit-Civilian-Modern%20era2.png?raw=true) |
+| EmbarkedUnit-Civilian-Modern era3.png | ![EmbarkedUnit-Civilian-Modern era3.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/EmbarkedUnit-Civilian-Modern%20era3.png?raw=true) |
+| EmbarkedUnit-Civilian-Modern era4.png | ![EmbarkedUnit-Civilian-Modern era4.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/EmbarkedUnit-Civilian-Modern%20era4.png?raw=true) |
+| EmbarkedUnit-Military-Modern era.png | ![EmbarkedUnit-Military-Modern era.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/EmbarkedUnit-Military-Modern%20era.png?raw=true) |
+| EmbarkedUnit-Military-Modern era2.png | ![EmbarkedUnit-Military-Modern era2.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/EmbarkedUnit-Military-Modern%20era2.png?raw=true) |
+| EmbarkedUnit-Military-Modern era3.png | ![EmbarkedUnit-Military-Modern era3.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/EmbarkedUnit-Military-Modern%20era3.png?raw=true) |
+| EmbarkedUnit-Military-Modern era4.png | ![EmbarkedUnit-Military-Modern era4.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/EmbarkedUnit-Military-Modern%20era4.png?raw=true) |
+| Giant Death Robot.png | ![Giant Death Robot.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Giant%20Death%20Robot.png?raw=true) |
+| Giant Death Robot2.png | ![Giant Death Robot2.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Giant%20Death%20Robot2.png?raw=true) |
+| Giant Death Robot3.png | ![Giant Death Robot3.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Giant%20Death%20Robot3.png?raw=true) |
+| Giant Death Robot4.png | ![Giant Death Robot4.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Giant%20Death%20Robot4.png?raw=true) |
+| Great Artist.png | ![Great Artist.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Great%20Artist.png?raw=true) |
+| Great Engineer.png | ![Great Engineer.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Great%20Engineer.png?raw=true) |
+| Great General.png | ![Great General.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Great%20General.png?raw=true) |
+| Great Merchant.png | ![Great Merchant.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Great%20Merchant.png?raw=true) |
+| Great Scientist.png | ![Great Scientist.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Great%20Scientist.png?raw=true) |
+| Helicopter Gunship.png | ![Helicopter Gunship.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Helicopter%20Gunship.png?raw=true) |
+| Helicopter Gunship2.png | ![Helicopter Gunship2.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Helicopter%20Gunship2.png?raw=true) |
+| Helicopter Gunship3.png | ![Helicopter Gunship3.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Helicopter%20Gunship3.png?raw=true) |
+| Helicopter Gunship4.png | ![Helicopter Gunship4.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Helicopter%20Gunship4.png?raw=true) |
+| Mechanized Infantry.png | ![Mechanized Infantry.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Mechanized%20Infantry.png?raw=true) |
+| Mechanized Infantry2.png | ![Mechanized Infantry2.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Mechanized%20Infantry2.png?raw=true) |
+| Mechanized Infantry3.png | ![Mechanized Infantry3.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Mechanized%20Infantry3.png?raw=true) |
+| Mechanized Infantry4.png | ![Mechanized Infantry4.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Mechanized%20Infantry4.png?raw=true) |
+| Missile Cruiser.png | ![Missile Cruiser.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Missile%20Cruiser.png?raw=true) |
+| Missile Cruiser2.png | ![Missile Cruiser2.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Missile%20Cruiser2.png?raw=true) |
+| Missile Cruiser3.png | ![Missile Cruiser3.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Missile%20Cruiser3.png?raw=true) |
+| Missile Cruiser4.png | ![Missile Cruiser4.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Missile%20Cruiser4.png?raw=true) |
+| Mobile SAM.png | ![Mobile SAM.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Mobile%20SAM.png?raw=true) |
+| Mobile SAM2.png | ![Mobile SAM2.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Mobile%20SAM2.png?raw=true) |
+| Mobile SAM3.png | ![Mobile SAM3.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Mobile%20SAM3.png?raw=true) |
+| Mobile SAM4.png | ![Mobile SAM4.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Mobile%20SAM4.png?raw=true) |
+| Modern Armor.png | ![Modern Armor.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Modern%20Armor.png?raw=true) |
+| Modern Armor2.png | ![Modern Armor2.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Modern%20Armor2.png?raw=true) |
+| Modern Armor3.png | ![Modern Armor3.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Modern%20Armor3.png?raw=true) |
+| Modern Armor4.png | ![Modern Armor4.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Modern%20Armor4.png?raw=true) |
+| Nuclear Submarine.png | ![Nuclear Submarine.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Nuclear%20Submarine.png?raw=true) |
+| Nuclear Submarine2.png | ![Nuclear Submarine2.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Nuclear%20Submarine2.png?raw=true) |
+| Rocket Artillery.png | ![Rocket Artillery.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Rocket%20Artillery.png?raw=true) |
+| Rocket Artillery2.png | ![Rocket Artillery2.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Rocket%20Artillery2.png?raw=true) |
+| Rocket Artillery3.png | ![Rocket Artillery3.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Rocket%20Artillery3.png?raw=true) |
+| Rocket Artillery4.png | ![Rocket Artillery4.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Rocket%20Artillery4.png?raw=true) |
+| Settler-Modern era.png | ![Settler-Modern era.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Settler-Modern%20era.png?raw=true) |
+| Settler.png | ![Settler.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Settler.png?raw=true) |
+| Submarine.png | ![Submarine.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Submarine.png?raw=true) |
+| Submarine2.png | ![Submarine2.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Submarine2.png?raw=true) |
+| Tank.png | ![Tank.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Tank.png?raw=true) |
+| Tank2.png | ![Tank2.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Tank2.png?raw=true) |
+| Tank3.png | ![Tank3.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Tank3.png?raw=true) |
+| Tank4.png | ![Tank4.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Tank4.png?raw=true) |
+| Worker-Modern era.png | ![Worker-Modern era.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Worker-Modern%20era.png?raw=true) |
+| Worker.png | ![Worker.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Worker.png?raw=true) |
+| Worker2-Modern era.png | ![Worker2-Modern era.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Worker2-Modern%20era.png?raw=true) |
+| Worker2.png | ![Worker2.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Worker2.png?raw=true) |
+| Worker3-Modern era.png | ![Worker3-Modern era.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Worker3-Modern%20era.png?raw=true) |
+| Worker3.png | ![Worker3.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Worker3.png?raw=true) |
+| Worker4-Modern era.png | ![Worker4-Modern era.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Worker4-Modern%20era.png?raw=true) |
+| Worker4.png | ![Worker4.png](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Worker4.png?raw=true) |
+
 
 ![](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/FantasyHex/Units/Great%20Merchant.png?raw=true)
 
-## Previews
-
-An [image preview table is here](https://github.com/hackedpassword/Unciv-Assets/blob/main/Mods/Ultima%20V%20retroset/Images/TileSets/HexaRealm/Tiles/_sprite_previews.md).
