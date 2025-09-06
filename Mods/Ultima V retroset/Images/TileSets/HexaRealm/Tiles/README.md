@@ -9,7 +9,7 @@ Mod assets belonging to **UltimaV-retroset**: [Images/TileSets/HexaRealm/Tiles/]
 
 ## Sprite preview table
 
-You'll notice a mix of pixel size images. Most 32x32 can be reduced back to 16x16, whenever I get around to that. The are sprites refit for use on a hex grid.
+You'll notice a mix of pixel size images. Most 32x32 can be reduced back to 16x16, whenever I get around to that. These are sprites refit for use on a hex grid.
 
 | File | Image |
 | ---- | ----- |
